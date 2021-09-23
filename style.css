@@ -2,17 +2,25 @@ body {
     background-color: #CBC3E3;
     color: #BF40BF;
     font-size: 25px;
+    background-image: url(https://i.pinimg.com/originals/65/83/5c/65835c6e2b1fc030e9cc1193ccece6d2.webp);
+    padding: 5px 5px;
+    font-family: 'Bonheur Royale', cursive;
 }
 .purple-font{
-    color: #5D3FD3; 
+    color: rgb(155, 124, 255); 
 }
 #id {
-    color:rgb(155, 124, 255)
+    color: #5d3fd3
 }
 .head{
     text-align: center;
     margin-top: 50px;
     background-color: #E6E6FA;
-    border: 3px solid #5D3FD3;
+    border: 3px solid rgb(155, 124, 255);
     padding: 50px 25px;
+}
+.blogpost{
+    margin: auto;
+    background: rgb(155, 124, 255);
+    width: 66%;
 }
