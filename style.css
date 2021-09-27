@@ -1,7 +1,7 @@
 body {
     background-color: #CBC3E3;
-    color: #BF40BF;
-    font-size: 25px;
+    color: white;
+    font-size: 20px;
     background-image: url(https://i.pinimg.com/originals/65/83/5c/65835c6e2b1fc030e9cc1193ccece6d2.webp);
     padding: 5px 5px;
     font-family: 'Gluten', cursive;
@@ -26,17 +26,10 @@ body {
     height: 50%;
     width: 25%;
     background: rgb(155, 124, 255);
+    border-radius: 30px;
     border: 3px solid rgb(155, 124, 255);
-    padding: 25px 25px;
+    padding: 15px 15px;
     margin: 15px;
     display: block;
     margin: 15 auto;
-}
-.post-1{
-
-}
-.post-2{
-
-}
-.post-3{
 }
